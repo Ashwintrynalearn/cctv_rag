@@ -1,0 +1,8 @@
+ultralytics>=8.3
+opencv-python>=4.8
+pandas>=2.0
+mlx-vlm
+sentence-transformers
+faiss-cpu
+google-genai>=1.11,<2.0
+python-dotenv
